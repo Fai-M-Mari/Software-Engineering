@@ -1,7 +1,6 @@
 # Software Engineering Assignments
 # Paper First
-<a href="https://conf.researchr.org/details/icpc-2020/icpc-2020-tool-demonstration/1/SimplyHover-Improving-Comprehension-of-else-Statements"># SimplyHover: Improving Comprehension of else Statements</a>
-
+# <a href="https://conf.researchr.org/details/icpc-2020/icpc-2020-tool-demonstration/1/SimplyHover-Improving-Comprehension-of-else-Statements">SimplyHover: Improving Comprehension of else Statements</a>
 # Author Names: Ahmad Jbara 
 Conference Name: ICPC 2020 Tool Demonstration
 Date: Wed 15 Jul 2020 00:24 - 00:36 at ICPC - Session 9: For Developers Chair(s): Anderson Oliveira
@@ -20,8 +19,7 @@ We get it very useful for developers to understand the large code of blocks of c
 
 -------------------------------------------------///\\\----------------------------------------------------------
 # Second Paper
-# UI Screens Identification and Extraction from Mobile Programming Screencasts
-Link https://conf.researchr.org/details/icpc-2020/icpc-2020-research/18/UI-Screens-Identification-and-Extraction-from-Mobile-Programming-Screencasts
+# <a href="https://conf.researchr.org/details/icpc-2020/icpc-2020-research/18/UI-Screens-Identification-and-Extraction-from-Mobile-Programming-Screencasts">UI Screens Identification and Extraction from Mobile Programming Screencasts</a>
 # author  Mohammad Alahmadi
 Track: ICPC 2020 Research
 Date :Mon 13 Jul 2020 15:12 - 15:24 at ICPC - Session 1: Tests Chair(s): Dario Di Nucci
