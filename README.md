@@ -1,8 +1,7 @@
 # Software Engineering Assignments
 # Paper First
-# SimplyHover: Improving Comprehension of else Statements
-link
-https://conf.researchr.org/details/icpc-2020/icpc-2020-tool-demonstration/1/SimplyHover-Improving-Comprehension-of-else-Statements
+<a href="https://conf.researchr.org/details/icpc-2020/icpc-2020-tool-demonstration/1/SimplyHover-Improving-Comprehension-of-else-Statements"># SimplyHover: Improving Comprehension of else Statements</a>
+
 # Author Names: Ahmad Jbara 
 Conference Name: ICPC 2020 Tool Demonstration
 Date: Wed 15 Jul 2020 00:24 - 00:36 at ICPC - Session 9: For Developers Chair(s): Anderson Oliveira
