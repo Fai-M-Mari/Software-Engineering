@@ -1,5 +1,5 @@
 # Software Engineering Assignments
-<h2>First Paper</h2>
+# First Paper
 # <a href="https://conf.researchr.org/details/icpc-2020/icpc-2020-tool-demonstration/1/SimplyHover-Improving-Comprehension-of-else-Statements">SimplyHover: Improving Comprehension of else Statements</a>
 <h2>Author Name: Ahmad Jbara </h2>
 <h4>Conference Name: ICPC 2020 Tool Demonstration</h4>
@@ -18,7 +18,7 @@ We get it very useful for developers to understand the large code of blocks of c
 
 
 -------------------------------------------------///\\\----------------------------------------------------------
-<h2>Second Paper</h2>
+# Second Paper
 # <a href="https://conf.researchr.org/details/icpc-2020/icpc-2020-research/18/UI-Screens-Identification-and-Extraction-from-Mobile-Programming-Screencasts">UI Screens Identification and Extraction from Mobile Programming Screencasts</a>
 <h2> Author Name: Mohammad Alahmadi</h2>
 <h4>Track: ICPC 2020 Research</h4>
